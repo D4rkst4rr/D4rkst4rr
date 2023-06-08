@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @D4rkst4rr the last without end
-- 👀 I’m interested in having fun at things that aren't funny at all
-- 🌱 I’m currently learning how to survive in this forsaken world
+- 👋 Hi, I’m @D4rkst4rr 
+- 👀 I’m interested in doing things that nobody wants to do
+- 🌱 I’m currently learning how to do amazing things
 - 💞️ I’m looking to collaborate on many things like game development, software development and stuffs.
-- 📫 How to reach me? you can reach me because im not that tall anyways.
+- 📫 How to reach me? you can always reach me because im not that tall anyways.
 
 <!---
 D4rkst4rr/D4rkst4rr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
